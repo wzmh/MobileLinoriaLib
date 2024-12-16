@@ -1,8 +1,6 @@
 # The Mobile Linoria Library
 A Roblox UI library inspired by Splix, BBot and many others.
 
-Used in the Linoria script hub and Suicide.lol: https://kyaru.cloud , [Suicide.lol](https://discord.com/invite/q5CsmsXpHd)
-
 ###### Example Script: 
 * [Example](Example.lua)
 
@@ -10,8 +8,10 @@ Used in the Linoria script hub and Suicide.lol: https://kyaru.cloud , [Suicide.l
 * [Theme Manager](addons/ThemeManager.lua)&nbsp;&nbsp;|&nbsp;&nbsp;[Save Manager](addons/SaveManager.lua) 
 
 ## To-Fix
-- Colorpicker
-- Skibidi Toilet Rizzler
+- Button (quite easy)
+
+## Next-Update
+- Built-in toggle button for mobile
 
 ## Features
 - Tabs, group boxes, and tab boxes
